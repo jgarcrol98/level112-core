@@ -3,7 +3,7 @@
     "description": "Core to academy Level112",
     "type": "library",
     "license": "MIT",
-    "version": "0.0.1-dev",
+    "version": "1.0.0",
     "autoload": {
         "psr-4": {
             "level112\\Utils\\": "src/"
